@@ -3,6 +3,7 @@
     "Geographical-Region": "Asia (Central Asia)",
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Main issue": "MI1",
     "Key-issues": [
       {
         "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
@@ -39,7 +40,15 @@
         "Source": "https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
         "Date-Updated": "6/7/2023",
         "NOTES": "Updated key issues, Columns G and H; Source in English"
-      },
+      }
+    ]
+  },
+  {
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Main issue": "MI2",
+    "Key-issues": [
       {
         "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)",
         "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -87,7 +96,15 @@
         "Source": "https://lex.uz/docs/6158227",
         "Date-Updated": "6/7/2023",
         "NOTES": "New update"
-      },
+      }
+    ]
+  },
+  {
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Main issue": "MI3",
+    "Key-issues": [
       {
         "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)",
         "Key-issues-names": "Regulatory Framework; Taxation",
@@ -142,6 +159,7 @@
     "Geographical-Region": "Africa",
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
+    "Main issue": "MI1",
     "Key-issues": [
       {
         "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
@@ -178,7 +196,15 @@
         "Source": "https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
         "Date-Updated": "6/7/2023",
         "NOTES": "Updated key issues, Columns G and H; Source in English"
-      },
+      }
+    ]
+  },
+  {
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Main issue": "MI2",
+    "Key-issues": [
       {
         "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)",
         "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -226,7 +252,15 @@
         "Source": "https://lex.uz/docs/6158227",
         "Date-Updated": "6/7/2023",
         "NOTES": "New update"
-      },
+      }
+    ]
+  },
+  {
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Main issue": "MI3",
+    "Key-issues": [
       {
         "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)",
         "Key-issues-names": "Regulatory Framework; Taxation",
