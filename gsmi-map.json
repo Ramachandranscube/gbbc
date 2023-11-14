@@ -38,4 +38,23 @@
             "dateUpdated": "6/7/2023"
         }
     ]
+},
+{
+    "id": "afghanistan",
+    "name": "Afghanistan",
+    "region": "Asia (Central Asia)",
+    "iso": "AFG",
+    "mainIssue": "MI2",
+    "keyIssues": [{
+            "governmentBodyName": "Taliban Regime",
+            "keyIssue": "Crypto Ban",
+            "typeOfAction": "Regulation",
+            "status": "In Force",
+            "nextStep": "NA",
+            "summaries1": "",
+            "summaries2": "The Taliban government imposed a nationwide ban on crypto and arrested token dealers who had defied prior orders to cease trading crypto.",
+            "source": "https://lex.uz/docs/3806048; https://lex.uz/docs/6054367",
+            "dateUpdated": "25-Oct-2023"
+        }
+    ]
 }]
