@@ -23,7 +23,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "CHN",
-    "Main issue": "MI1",
+    "Main issue": "MI2",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)2",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -42,7 +42,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "PAK",
-    "Main issue": "MI1",
+    "Main issue": "MI3",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)3",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -61,7 +61,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "IRN",
-    "Main issue": "MI2",
+    "Main issue": "MI4",
     "Key-issues": {
       "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)1",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -80,7 +80,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "AFG",
-    "Main issue": "MI2",
+    "Main issue": "MI5",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP)2",
       "Key-issues-names": "Financial Surveillance; AML/KYC/CFT",
@@ -99,7 +99,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "LKA",
-    "Main issue": "MI2",
+    "Main issue": "MI6",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -118,7 +118,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "JPN",
-    "Main issue": "MI2",
+    "Main issue": "MI7",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
       "Key-issues-names": "Regulatory Framework; Registration and Licensing",
@@ -137,7 +137,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "IDN",
-    "Main issue": "MI3",
+    "Main issue": "MI8",
     "Key-issues": {
       "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)1",
       "Key-issues-names": "Regulatory Framework; Taxation",
@@ -156,7 +156,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "MYS",
-    "Main issue": "MI3",
+    "Main issue": "MI9",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)2",
       "Key-issues-names": "Regulatory Framework; Infrastructure",
@@ -175,7 +175,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "SGP",
-    "Main issue": "MI3",
+    "Main issue": "MI10",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
       "Key-issues-names": "Regulatory Framework; Digital Assets; Tokens\n\n",
@@ -194,7 +194,7 @@
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "Country-code": "KOR",
-    "Main issue": "MI3",
+    "Main issue": "MI11",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
       "Key-issues-names": "Regulatory Framework; Regulatory Sandbox",
@@ -213,7 +213,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "ETH",
-    "Main issue": "MI1",
+    "Main issue": "MI12",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)1",
       "Key-issues-names": "Regulatory Framework; Digital Assets; Taxation",
@@ -232,7 +232,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "NGA",
-    "Main issue": "MI1",
+    "Main issue": "MI13",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)2",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -251,7 +251,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "KEN",
-    "Main issue": "MI1",
+    "Main issue": "MI14",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)3",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -270,7 +270,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "UGA",
-    "Main issue": "MI2",
+    "Main issue": "MI15",
     "Key-issues": {
       "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)1",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -289,7 +289,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "MOZ",
-    "Main issue": "MI2",
+    "Main issue": "MI16",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP)2",
       "Key-issues-names": "Financial Surveillance; AML/KYC/CFT",
@@ -308,7 +308,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "MUS",
-    "Main issue": "MI2",
+    "Main issue": "MI17",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -327,7 +327,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "AGO",
-    "Main issue": "MI2",
+    "Main issue": "MI18",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
       "Key-issues-names": "Regulatory Framework; Registration and Licensing",
@@ -346,7 +346,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "GHA",
-    "Main issue": "MI3",
+    "Main issue": "MI19",
     "Key-issues": {
       "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)1",
       "Key-issues-names": "Regulatory Framework; Taxation",
@@ -365,7 +365,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "LBR",
-    "Main issue": "MI3",
+    "Main issue": "MI20",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)2",
       "Key-issues-names": "Regulatory Framework; Infrastructure",
@@ -384,7 +384,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "MWI",
-    "Main issue": "MI3",
+    "Main issue": "MI21",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
       "Key-issues-names": "Regulatory Framework; Digital Assets; Tokens\n\n",
@@ -403,7 +403,7 @@
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
     "Country-code": "NAM",
-    "Main issue": "MI3",
+    "Main issue": "MI22",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
       "Key-issues-names": "Regulatory Framework; Regulatory Sandbox",
