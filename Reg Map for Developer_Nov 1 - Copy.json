@@ -3,418 +3,312 @@
     "Geographical-Region": "Asia (Central Asia)",
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "IND",
     "Main issue": "MI1",
-    "Key-issues": {
-      "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)1",
-      "Key-issues-names": "Regulatory Framework; Digital Assets; Taxation",
-      "Type-of-Action": "Resolution\n",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The President of Uzbekistan signed the Resolution of the President on Measures for the Development of the Digital Economy, which legalized cryptocurrencies and blockchain. The Resolution tasked the National Agency for Project Management (NAPM) to develop further legislation on cryptocurrencies and blockchain. It also directed government agencies to begin implementing blockchain into their services starting January 1, 2021. Finally, it stated that the taxation of cryptoassets \"is regulated by special legal acts\" and the turnover of cryptoassets are not subject to be taxed, and revenues received are not included in the tax base.",
-      "Date": "7/3/2018",
-      "Source": "https://lex.uz/docs/3806048; https://lex.uz/docs/6054367 ",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "Source in Russian Corrected a word in the summary and updated key words; Source in English"
-    }
+    "Key-issues": [
+      {
+        "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
+        "Key-issues-names": "Regulatory Framework; Digital Assets; Taxation",
+        "Type-of-Action": "Resolution\n",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The President of Uzbekistan signed the Resolution of the President on Measures for the Development of the Digital Economy, which legalized cryptocurrencies and blockchain. The Resolution tasked the National Agency for Project Management (NAPM) to develop further legislation on cryptocurrencies and blockchain. It also directed government agencies to begin implementing blockchain into their services starting January 1, 2021. Finally, it stated that the taxation of cryptoassets \"is regulated by special legal acts\" and the turnover of cryptoassets are not subject to be taxed, and revenues received are not included in the tax base.",
+        "Date": "7/3/2018",
+        "Source": "https://lex.uz/docs/3806048; https://lex.uz/docs/6054367 ",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "Source in Russian Corrected a word in the summary and updated key words; Source in English"
+      },
+      {
+        "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
+        "Type-of-Action": "Regulation",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The President of Uzbekistan signed the Resolution on the Creation of Crypto Exchanges, which set measures to organize the activities of crypto exchanges in Uzbekistan.",
+        "Date": "9/2/2018",
+        "Source": "https://lex.uz/docs/3891610; https://lex.uz/docs/6054869\n",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "Source in Russian, updated key issues; Source in English"
+      },
+      {
+        "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "\nNA",
+        "Summaries": "The resolution entitled \"On measures to organize the activities of crypto-exchanges\" directed the National Agency for Project Management to promulgate regulations for crypto exchanges.",
+        "Date": "9/2/2018",
+        "Source": "https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "Updated key issues, Columns G and H; Source in English"
+      }
+    ]
   },
   {
     "Geographical-Region": "Asia (Central Asia)",
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "CHN",
     "Main issue": "MI2",
-    "Key-issues": {
-      "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)2",
-      "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
-      "Type-of-Action": "Regulation",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The President of Uzbekistan signed the Resolution on the Creation of Crypto Exchanges, which set measures to organize the activities of crypto exchanges in Uzbekistan.",
-      "Date": "9/2/2018",
-      "Source": "https://lex.uz/docs/3891610; https://lex.uz/docs/6054869\n",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "Source in Russian, updated key issues; Source in English"
-    }
+    "Key-issues": [
+      {
+        "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "Discussion ended 5/14/2021",
+        "Summaries": "The National Project Management Agency (NAPM) issued an order  amending the licensing regulation of 21 January 2019. The amendments make minor wording changes and state that residents of Uzbekistan have the right to carry out crypto trades for national and foreign currencies on crypto exchanges.",
+        "Date": "4/30/2021",
+        "Source": "https://regulation.gov.uz/ru/d/44561; https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "1. Column D: The name of the Agency was changed from The National Project Management Agency (NAPM) to National Agency of Perspective Projects (NAPP) \n\n2. Column G: In Force,\n\n3. Wrong source, change it with next sources provided in the rows 12 and 13; Source in Russian; Source in English\n"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP)",
+        "Key-issues-names": "Financial Surveillance; AML/KYC/CFT",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The National Agency for Perspective Projects (NAPP) issued an order on approval of Internal Control Rules for Combating Money Laundering, Financing Terrorism, and Financing the Proliferation of Weapons of Mass Destruction for Entities Engaged in Cryptocurrency Activities.",
+        "Date": "6/9/2021",
+        "Source": "https://lex.uz/ru/docs/5450936",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the rules for conducting trading with crypto-assets on a cryptocurrency exchange. These rules establish the regulations for the organization and implementation of trading with crypto-assets on a cryptocurrency exchange.",
+        "Date": "8/15/2022",
+        "Source": "https://lex.uz/docs/6158332",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Registration and Licensing",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the regulations on the procedure for licensing the activities of service providers in the field of crypto-assets circulation. These regulations establish the procedure for licensing the activities of service providers in the field of crypto-assets circulation.",
+        "Date": "8/15/2022",
+        "Source": "https://lex.uz/docs/6158227",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      }
+    ]
   },
   {
     "Geographical-Region": "Asia (Central Asia)",
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "PAK",
     "Main issue": "MI3",
-    "Key-issues": {
-      "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)3",
-      "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "\nNA",
-      "Summaries": "The resolution entitled \"On measures to organize the activities of crypto-exchanges\" directed the National Agency for Project Management to promulgate regulations for crypto exchanges.",
-      "Date": "9/2/2018",
-      "Source": "https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "Updated key issues, Columns G and H; Source in English"
-    }
-  },
-  {
-    "Geographical-Region": "Asia (Central Asia)",
-    "iso": "ASIA",
-    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "IRN",
-    "Main issue": "MI4",
-    "Key-issues": {
-      "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)1",
-      "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "Discussion ended 5/14/2021",
-      "Summaries": "The National Project Management Agency (NAPM) issued an order  amending the licensing regulation of 21 January 2019. The amendments make minor wording changes and state that residents of Uzbekistan have the right to carry out crypto trades for national and foreign currencies on crypto exchanges.",
-      "Date": "4/30/2021",
-      "Source": "https://regulation.gov.uz/ru/d/44561; https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "1. Column D: The name of the Agency was changed from The National Project Management Agency (NAPM) to National Agency of Perspective Projects (NAPP) \n\n2. Column G: In Force,\n\n3. Wrong source, change it with next sources provided in the rows 12 and 13; Source in Russian; Source in English\n"
-    }
-  },
-  {
-    "Geographical-Region": "Asia (Central Asia)",
-    "iso": "ASIA",
-    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "AFG",
-    "Main issue": "MI5",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP)2",
-      "Key-issues-names": "Financial Surveillance; AML/KYC/CFT",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The National Agency for Perspective Projects (NAPP) issued an order on approval of Internal Control Rules for Combating Money Laundering, Financing Terrorism, and Financing the Proliferation of Weapons of Mass Destruction for Entities Engaged in Cryptocurrency Activities.",
-      "Date": "6/9/2021",
-      "Source": "https://lex.uz/ru/docs/5450936",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Asia (Central Asia)",
-    "iso": "ASIA",
-    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "LKA",
-    "Main issue": "MI6",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
-      "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the rules for conducting trading with crypto-assets on a cryptocurrency exchange. These rules establish the regulations for the organization and implementation of trading with crypto-assets on a cryptocurrency exchange.",
-      "Date": "8/15/2022",
-      "Source": "https://lex.uz/docs/6158332",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Asia (Central Asia)",
-    "iso": "ASIA",
-    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "JPN",
-    "Main issue": "MI7",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
-      "Key-issues-names": "Regulatory Framework; Registration and Licensing",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the regulations on the procedure for licensing the activities of service providers in the field of crypto-assets circulation. These regulations establish the procedure for licensing the activities of service providers in the field of crypto-assets circulation.",
-      "Date": "8/15/2022",
-      "Source": "https://lex.uz/docs/6158227",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Asia (Central Asia)",
-    "iso": "ASIA",
-    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "IDN",
-    "Main issue": "MI8",
-    "Key-issues": {
-      "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)1",
-      "Key-issues-names": "Regulatory Framework; Taxation",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP), Ministry of Finance and State Tax Committee of the Republic of Uzbekistan on the approval of the regulations on establishing fees for conducting activities in the field of crypto-assets circulation, their payment, and distribution. These regulations establish the fees to be paid by legal entities for conducting activities in the field of crypto-assets circulation, as well as the procedure for their payment and distribution.",
-      "Date": "9/28/2022",
-      "Source": "https://lex.uz/docs/6212771",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Asia (Central Asia)",
-    "iso": "ASIA",
-    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "MYS",
-    "Main issue": "MI9",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)2",
-      "Key-issues-names": "Regulatory Framework; Infrastructure",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the rules for conducting activities of a crypto-store. These rules establish the procedures for organizing and conducting the activities of a crypto-store.",
-      "Date": "10/31/2022",
-      "Source": "https://lex.uz/docs/6266761",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Asia (Central Asia)",
-    "iso": "ASIA",
-    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "SGP",
-    "Main issue": "MI10",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
-      "Key-issues-names": "Regulatory Framework; Digital Assets; Tokens\n\n",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Perspective Projects (NAPP) on approval of the regulations on the procedure for issuance, registration of issuance, and use of crypto assets by residents of the Republic of Uzbekistan. This regulation establishes the procedure for issuance, registration of issuance, and use of crypto assets by residents of the Republic of Uzbekistan.",
-      "Date": "11/28/2022",
-      "Source": "https://lex.uz/docs/6299489",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Asia (Central Asia)",
-    "iso": "ASIA",
-    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country-code": "KOR",
-    "Main issue": "MI11",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
-      "Key-issues-names": "Regulatory Framework; Regulatory Sandbox",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Perspective Projects (NAPP) on approval of the procedure for registering participants of the special regulation mode in the sphere of crypto-asset turnover (special regulation mode “Regulatory sandbox”)",
-      "Date": "12/30/2022",
-      "Source": "https://lex.uz/uz/docs/6332987",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
+    "Key-issues": [
+      {
+        "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)",
+        "Key-issues-names": "Regulatory Framework; Taxation",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP), Ministry of Finance and State Tax Committee of the Republic of Uzbekistan on the approval of the regulations on establishing fees for conducting activities in the field of crypto-assets circulation, their payment, and distribution. These regulations establish the fees to be paid by legal entities for conducting activities in the field of crypto-assets circulation, as well as the procedure for their payment and distribution.",
+        "Date": "9/28/2022",
+        "Source": "https://lex.uz/docs/6212771",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the rules for conducting activities of a crypto-store. These rules establish the procedures for organizing and conducting the activities of a crypto-store.",
+        "Date": "10/31/2022",
+        "Source": "https://lex.uz/docs/6266761",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Digital Assets; Tokens\n\n",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Perspective Projects (NAPP) on approval of the regulations on the procedure for issuance, registration of issuance, and use of crypto assets by residents of the Republic of Uzbekistan. This regulation establishes the procedure for issuance, registration of issuance, and use of crypto assets by residents of the Republic of Uzbekistan.",
+        "Date": "11/28/2022",
+        "Source": "https://lex.uz/docs/6299489",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Regulatory Sandbox",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Perspective Projects (NAPP) on approval of the procedure for registering participants of the special regulation mode in the sphere of crypto-asset turnover (special regulation mode “Regulatory sandbox”)",
+        "Date": "12/30/2022",
+        "Source": "https://lex.uz/uz/docs/6332987",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      }
+    ]
   },
   {
     "Geographical-Region": "Africa",
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
-    "Country-code": "ETH",
-    "Main issue": "MI12",
-    "Key-issues": {
-      "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)1",
-      "Key-issues-names": "Regulatory Framework; Digital Assets; Taxation",
-      "Type-of-Action": "Resolution\n",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The President of Uzbekistan signed the Resolution of the President on Measures for the Development of the Digital Economy, which legalized cryptocurrencies and blockchain. The Resolution tasked the National Agency for Project Management (NAPM) to develop further legislation on cryptocurrencies and blockchain. It also directed government agencies to begin implementing blockchain into their services starting January 1, 2021. Finally, it stated that the taxation of cryptoassets \"is regulated by special legal acts\" and the turnover of cryptoassets are not subject to be taxed, and revenues received are not included in the tax base.",
-      "Date": "7/3/2018",
-      "Source": "https://lex.uz/docs/3806048; https://lex.uz/docs/6054367 ",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "Source in Russian Corrected a word in the summary and updated key words; Source in English"
-    }
+    "Main issue": "MI1",
+    "Key-issues": [
+      {
+        "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
+        "Key-issues-names": "Regulatory Framework; Digital Assets; Taxation",
+        "Type-of-Action": "Resolution\n",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The President of Uzbekistan signed the Resolution of the President on Measures for the Development of the Digital Economy, which legalized cryptocurrencies and blockchain. The Resolution tasked the National Agency for Project Management (NAPM) to develop further legislation on cryptocurrencies and blockchain. It also directed government agencies to begin implementing blockchain into their services starting January 1, 2021. Finally, it stated that the taxation of cryptoassets \"is regulated by special legal acts\" and the turnover of cryptoassets are not subject to be taxed, and revenues received are not included in the tax base.",
+        "Date": "7/3/2018",
+        "Source": "https://lex.uz/docs/3806048; https://lex.uz/docs/6054367 ",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "Source in Russian Corrected a word in the summary and updated key words; Source in English"
+      },
+      {
+        "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
+        "Type-of-Action": "Regulation",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The President of Uzbekistan signed the Resolution on the Creation of Crypto Exchanges, which set measures to organize the activities of crypto exchanges in Uzbekistan.",
+        "Date": "9/2/2018",
+        "Source": "https://lex.uz/docs/3891610; https://lex.uz/docs/6054869\n",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "Source in Russian, updated key issues; Source in English"
+      },
+      {
+        "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "\nNA",
+        "Summaries": "The resolution entitled \"On measures to organize the activities of crypto-exchanges\" directed the National Agency for Project Management to promulgate regulations for crypto exchanges.",
+        "Date": "9/2/2018",
+        "Source": "https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "Updated key issues, Columns G and H; Source in English"
+      }
+    ]
   },
   {
     "Geographical-Region": "Africa",
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
-    "Country-code": "NGA",
-    "Main issue": "MI13",
-    "Key-issues": {
-      "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)2",
-      "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
-      "Type-of-Action": "Regulation",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The President of Uzbekistan signed the Resolution on the Creation of Crypto Exchanges, which set measures to organize the activities of crypto exchanges in Uzbekistan.",
-      "Date": "9/2/2018",
-      "Source": "https://lex.uz/docs/3891610; https://lex.uz/docs/6054869\n",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "Source in Russian, updated key issues; Source in English"
-    }
+    "Main issue": "MI2",
+    "Key-issues": [
+      {
+        "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "Discussion ended 5/14/2021",
+        "Summaries": "The National Project Management Agency (NAPM) issued an order  amending the licensing regulation of 21 January 2019. The amendments make minor wording changes and state that residents of Uzbekistan have the right to carry out crypto trades for national and foreign currencies on crypto exchanges.",
+        "Date": "4/30/2021",
+        "Source": "https://regulation.gov.uz/ru/d/44561; https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "1. Column D: The name of the Agency was changed from The National Project Management Agency (NAPM) to National Agency of Perspective Projects (NAPP) \n\n2. Column G: In Force,\n\n3. Wrong source, change it with next sources provided in the rows 12 and 13; Source in Russian; Source in English\n"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP)",
+        "Key-issues-names": "Financial Surveillance; AML/KYC/CFT",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The National Agency for Perspective Projects (NAPP) issued an order on approval of Internal Control Rules for Combating Money Laundering, Financing Terrorism, and Financing the Proliferation of Weapons of Mass Destruction for Entities Engaged in Cryptocurrency Activities.",
+        "Date": "6/9/2021",
+        "Source": "https://lex.uz/ru/docs/5450936",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the rules for conducting trading with crypto-assets on a cryptocurrency exchange. These rules establish the regulations for the organization and implementation of trading with crypto-assets on a cryptocurrency exchange.",
+        "Date": "8/15/2022",
+        "Source": "https://lex.uz/docs/6158332",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Registration and Licensing",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the regulations on the procedure for licensing the activities of service providers in the field of crypto-assets circulation. These regulations establish the procedure for licensing the activities of service providers in the field of crypto-assets circulation.",
+        "Date": "8/15/2022",
+        "Source": "https://lex.uz/docs/6158227",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      }
+    ]
   },
   {
     "Geographical-Region": "Africa",
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
-    "Country-code": "KEN",
-    "Main issue": "MI14",
-    "Key-issues": {
-      "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)3",
-      "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "\nNA",
-      "Summaries": "The resolution entitled \"On measures to organize the activities of crypto-exchanges\" directed the National Agency for Project Management to promulgate regulations for crypto exchanges.",
-      "Date": "9/2/2018",
-      "Source": "https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "Updated key issues, Columns G and H; Source in English"
-    }
-  },
-  {
-    "Geographical-Region": "Africa",
-    "iso": "AFRICA",
-    "Jurisdiction": "Republic of Africa",
-    "Country-code": "UGA",
-    "Main issue": "MI15",
-    "Key-issues": {
-      "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)1",
-      "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "Discussion ended 5/14/2021",
-      "Summaries": "The National Project Management Agency (NAPM) issued an order  amending the licensing regulation of 21 January 2019. The amendments make minor wording changes and state that residents of Uzbekistan have the right to carry out crypto trades for national and foreign currencies on crypto exchanges.",
-      "Date": "4/30/2021",
-      "Source": "https://regulation.gov.uz/ru/d/44561; https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "1. Column D: The name of the Agency was changed from The National Project Management Agency (NAPM) to National Agency of Perspective Projects (NAPP) \n\n2. Column G: In Force,\n\n3. Wrong source, change it with next sources provided in the rows 12 and 13; Source in Russian; Source in English\n"
-    }
-  },
-  {
-    "Geographical-Region": "Africa",
-    "iso": "AFRICA",
-    "Jurisdiction": "Republic of Africa",
-    "Country-code": "MOZ",
-    "Main issue": "MI16",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP)2",
-      "Key-issues-names": "Financial Surveillance; AML/KYC/CFT",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The National Agency for Perspective Projects (NAPP) issued an order on approval of Internal Control Rules for Combating Money Laundering, Financing Terrorism, and Financing the Proliferation of Weapons of Mass Destruction for Entities Engaged in Cryptocurrency Activities.",
-      "Date": "6/9/2021",
-      "Source": "https://lex.uz/ru/docs/5450936",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Africa",
-    "iso": "AFRICA",
-    "Jurisdiction": "Republic of Africa",
-    "Country-code": "MUS",
-    "Main issue": "MI17",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
-      "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the rules for conducting trading with crypto-assets on a cryptocurrency exchange. These rules establish the regulations for the organization and implementation of trading with crypto-assets on a cryptocurrency exchange.",
-      "Date": "8/15/2022",
-      "Source": "https://lex.uz/docs/6158332",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Africa",
-    "iso": "AFRICA",
-    "Jurisdiction": "Republic of Africa",
-    "Country-code": "AGO",
-    "Main issue": "MI18",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
-      "Key-issues-names": "Regulatory Framework; Registration and Licensing",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the regulations on the procedure for licensing the activities of service providers in the field of crypto-assets circulation. These regulations establish the procedure for licensing the activities of service providers in the field of crypto-assets circulation.",
-      "Date": "8/15/2022",
-      "Source": "https://lex.uz/docs/6158227",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Africa",
-    "iso": "AFRICA",
-    "Jurisdiction": "Republic of Africa",
-    "Country-code": "GHA",
-    "Main issue": "MI19",
-    "Key-issues": {
-      "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)1",
-      "Key-issues-names": "Regulatory Framework; Taxation",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP), Ministry of Finance and State Tax Committee of the Republic of Uzbekistan on the approval of the regulations on establishing fees for conducting activities in the field of crypto-assets circulation, their payment, and distribution. These regulations establish the fees to be paid by legal entities for conducting activities in the field of crypto-assets circulation, as well as the procedure for their payment and distribution.",
-      "Date": "9/28/2022",
-      "Source": "https://lex.uz/docs/6212771",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Africa",
-    "iso": "AFRICA",
-    "Jurisdiction": "Republic of Africa",
-    "Country-code": "LBR",
-    "Main issue": "MI20",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)2",
-      "Key-issues-names": "Regulatory Framework; Infrastructure",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the rules for conducting activities of a crypto-store. These rules establish the procedures for organizing and conducting the activities of a crypto-store.",
-      "Date": "10/31/2022",
-      "Source": "https://lex.uz/docs/6266761",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Africa",
-    "iso": "AFRICA",
-    "Jurisdiction": "Republic of Africa",
-    "Country-code": "MWI",
-    "Main issue": "MI21",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
-      "Key-issues-names": "Regulatory Framework; Digital Assets; Tokens\n\n",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Perspective Projects (NAPP) on approval of the regulations on the procedure for issuance, registration of issuance, and use of crypto assets by residents of the Republic of Uzbekistan. This regulation establishes the procedure for issuance, registration of issuance, and use of crypto assets by residents of the Republic of Uzbekistan.",
-      "Date": "11/28/2022",
-      "Source": "https://lex.uz/docs/6299489",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
-  },
-  {
-    "Geographical-Region": "Africa",
-    "iso": "AFRICA",
-    "Jurisdiction": "Republic of Africa",
-    "Country-code": "NAM",
-    "Main issue": "MI22",
-    "Key-issues": {
-      "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
-      "Key-issues-names": "Regulatory Framework; Regulatory Sandbox",
-      "Type-of-Action": "Resolution",
-      "Drafted/Proposed/In-Force?": "In Force",
-      "Next-Step": "NA",
-      "Summaries": "The Resolution of the National Agency for Perspective Projects (NAPP) on approval of the procedure for registering participants of the special regulation mode in the sphere of crypto-asset turnover (special regulation mode “Regulatory sandbox”)",
-      "Date": "12/30/2022",
-      "Source": "https://lex.uz/uz/docs/6332987",
-      "Date-Updated": "6/7/2023",
-      "NOTES": "New update"
-    }
+    "Main issue": "MI3",
+    "Key-issues": [
+      {
+        "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)",
+        "Key-issues-names": "Regulatory Framework; Taxation",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP), Ministry of Finance and State Tax Committee of the Republic of Uzbekistan on the approval of the regulations on establishing fees for conducting activities in the field of crypto-assets circulation, their payment, and distribution. These regulations establish the fees to be paid by legal entities for conducting activities in the field of crypto-assets circulation, as well as the procedure for their payment and distribution.",
+        "Date": "9/28/2022",
+        "Source": "https://lex.uz/docs/6212771",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Infrastructure",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Prospective Projects (NAPP) on the approval of the rules for conducting activities of a crypto-store. These rules establish the procedures for organizing and conducting the activities of a crypto-store.",
+        "Date": "10/31/2022",
+        "Source": "https://lex.uz/docs/6266761",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Digital Assets; Tokens\n\n",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Perspective Projects (NAPP) on approval of the regulations on the procedure for issuance, registration of issuance, and use of crypto assets by residents of the Republic of Uzbekistan. This regulation establishes the procedure for issuance, registration of issuance, and use of crypto assets by residents of the Republic of Uzbekistan.",
+        "Date": "11/28/2022",
+        "Source": "https://lex.uz/docs/6299489",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      },
+      {
+        "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)",
+        "Key-issues-names": "Regulatory Framework; Regulatory Sandbox",
+        "Type-of-Action": "Resolution",
+        "Drafted/Proposed/In-Force?": "In Force",
+        "Next-Step": "NA",
+        "Summaries": "The Resolution of the National Agency for Perspective Projects (NAPP) on approval of the procedure for registering participants of the special regulation mode in the sphere of crypto-asset turnover (special regulation mode “Regulatory sandbox”)",
+        "Date": "12/30/2022",
+        "Source": "https://lex.uz/uz/docs/6332987",
+        "Date-Updated": "6/7/2023",
+        "NOTES": "New update"
+      }
+    ]
   }
 ]
