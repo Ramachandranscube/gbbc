@@ -3,7 +3,7 @@
     "Geographical-Region": "Asia (Central Asia)",
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country": "India",
+    "Country-code": "IND",
     "Main issue": "MI1",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)1",
@@ -19,7 +19,11 @@
     }
   },
   {
-    "Country": "China",
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Country-code": "CHN",
+    "Main issue": "MI1",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)2",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -34,7 +38,11 @@
     }
   },
   {
-    "Country": "Pakisthan",
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Country-code": "PAK",
+    "Main issue": "MI1",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)3",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -52,7 +60,7 @@
     "Geographical-Region": "Asia (Central Asia)",
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country": "Bangaladesh",
+    "Country-code": "IRN",
     "Main issue": "MI2",
     "Key-issues": {
       "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)1",
@@ -68,7 +76,11 @@
     }
   },
   {
-    "Country": "Afghanisthan",
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Country-code": "AFG",
+    "Main issue": "MI2",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP)2",
       "Key-issues-names": "Financial Surveillance; AML/KYC/CFT",
@@ -83,7 +95,11 @@
     }
   },
   {
-    "Country": "Srilanka",
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Country-code": "LKA",
+    "Main issue": "MI2",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -98,7 +114,11 @@
     }
   },
   {
-    "Country": "Japan",
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Country-code": "JPN",
+    "Main issue": "MI2",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
       "Key-issues-names": "Regulatory Framework; Registration and Licensing",
@@ -116,7 +136,7 @@
     "Geographical-Region": "Asia (Central Asia)",
     "iso": "ASIA",
     "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "Country": "Indonesia",
+    "Country-code": "IDN",
     "Main issue": "MI3",
     "Key-issues": {
       "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)1",
@@ -132,7 +152,11 @@
     }
   },
   {
-    "Country": "Malaysia",
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Country-code": "MYS",
+    "Main issue": "MI3",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)2",
       "Key-issues-names": "Regulatory Framework; Infrastructure",
@@ -147,7 +171,11 @@
     }
   },
   {
-    "Country": "Singapore",
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Country-code": "SGP",
+    "Main issue": "MI3",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
       "Key-issues-names": "Regulatory Framework; Digital Assets; Tokens\n\n",
@@ -162,7 +190,11 @@
     }
   },
   {
-    "Country": "South Korea",
+    "Geographical-Region": "Asia (Central Asia)",
+    "iso": "ASIA",
+    "Jurisdiction": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+    "Country-code": "KOR",
+    "Main issue": "MI3",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
       "Key-issues-names": "Regulatory Framework; Regulatory Sandbox",
@@ -180,7 +212,7 @@
     "Geographical-Region": "Africa",
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
-    "Country": "Ivory Coast",
+    "Country-code": "ETH",
     "Main issue": "MI1",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)1",
@@ -196,7 +228,11 @@
     }
   },
   {
-    "Country": "Nigeria",
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Country-code": "NGA",
+    "Main issue": "MI1",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)2",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -211,7 +247,11 @@
     }
   },
   {
-    "Country": "Ethiopia",
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Country-code": "KEN",
+    "Main issue": "MI1",
     "Key-issues": {
       "Government-Body": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)3",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -229,7 +269,7 @@
     "Geographical-Region": "Africa",
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
-    "Country": "Egypt",
+    "Country-code": "UGA",
     "Main issue": "MI2",
     "Key-issues": {
       "Government-Body": " Loyiha boshqaruvi milliy agentligi (National Agency for Project Management_NAPM)1",
@@ -245,7 +285,11 @@
     }
   },
   {
-    "Country": "South Africa",
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Country-code": "MOZ",
+    "Main issue": "MI2",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP)2",
       "Key-issues-names": "Financial Surveillance; AML/KYC/CFT",
@@ -260,7 +304,11 @@
     }
   },
   {
-    "Country": "Kenya",
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Country-code": "MUS",
+    "Main issue": "MI2",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
       "Key-issues-names": "Regulatory Framework; Infrastructure; Exchanges",
@@ -275,7 +323,11 @@
     }
   },
   {
-    "Country": "Uganda",
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Country-code": "AGO",
+    "Main issue": "MI2",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
       "Key-issues-names": "Regulatory Framework; Registration and Licensing",
@@ -293,7 +345,7 @@
     "Geographical-Region": "Africa",
     "iso": "AFRICA",
     "Jurisdiction": "Republic of Africa",
-    "Country": "Morocco",
+    "Country-code": "GHA",
     "Main issue": "MI3",
     "Key-issues": {
       "Government-Body": " Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects – NAPP), \nMoliya Vazirligi (Ministry of Finance),\nDavlat Soliq Qo’mitasi (State Tax Committee of the Republic of Uzbekistan)1",
@@ -309,7 +361,11 @@
     }
   },
   {
-    "Country": "Ghana",
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Country-code": "LBR",
+    "Main issue": "MI3",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)2",
       "Key-issues-names": "Regulatory Framework; Infrastructure",
@@ -324,7 +380,11 @@
     }
   },
   {
-    "Country": "Algeria",
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Country-code": "MWI",
+    "Main issue": "MI3",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)3",
       "Key-issues-names": "Regulatory Framework; Digital Assets; Tokens\n\n",
@@ -339,7 +399,11 @@
     }
   },
   {
-    "Country": "Sudan",
+    "Geographical-Region": "Africa",
+    "iso": "AFRICA",
+    "Jurisdiction": "Republic of Africa",
+    "Country-code": "NAM",
+    "Main issue": "MI3",
     "Key-issues": {
       "Government-Body": "Istiqbolli loyihalar milliy agentligi (National Agency of Perspective Projects - NAPP)4",
       "Key-issues-names": "Regulatory Framework; Regulatory Sandbox",
