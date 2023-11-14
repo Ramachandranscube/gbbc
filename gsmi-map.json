@@ -1,22 +1,41 @@
-[
-  {
+[{
     "id": "o-zbekiston-respublikasi-republic-of-uzbekistan-",
     "name": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "region": "Asia (Central Asia)",
-	"iso": "UZB",
-	"mainIssue": "MI1",
-    "keyIssues": [
-      {
-        "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
-        "keyIssue": "Regulatory Framework; Digital Assets; Taxation",
-        "typeOfAction": "Resolution",
-        "status": "In Force",
-        "nextStep": "NA",
-        "summaries1": "",
-        "summaries2": "The President of Uzbekistan signed the Resolution of the President on Measures for the Development of the Digital Economy, which legalized cryptocurrencies and blockchain. The Resolution tasked the National Agency for Project Management (NAPM) to develop further legislation on cryptocurrencies and blockchain. It also directed government agencies to begin implementing blockchain into their services starting January 1, 2021. Finally, it stated that the taxation of cryptoassets \"is regulated by special legal acts\" and the turnover of cryptoassets are not subject to be taxed, and revenues received are not included in the tax base.",
-        "source": "https://lex.uz/docs/3806048; https://lex.uz/docs/6054367",
-        "dateUpdated": "06-July-2023"
-      }      
-    ]    
-  }
-]
+    "iso": "UZB",
+    "mainIssue": "MI1",
+    "keyIssues": [{
+            "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
+            "keyIssue": "Regulatory Framework; Digital Assets; Taxation",
+            "typeOfAction": "Resolution",
+            "status": "In Force",
+            "nextStep": "NA",
+            "summaries1": "",
+            "summaries2": "The President of Uzbekistan signed the Resolution of the President on Measures for the Development of the Digital Economy, which legalized cryptocurrencies and blockchain. The Resolution tasked the National Agency for Project Management (NAPM) to develop further legislation on cryptocurrencies and blockchain. It also directed government agencies to begin implementing blockchain into their services starting January 1, 2021. Finally, it stated that the taxation of cryptoassets \"is regulated by special legal acts\" and the turnover of cryptoassets are not subject to be taxed, and revenues received are not included in the tax base.",
+            "source": "https://lex.uz/docs/3806048; https://lex.uz/docs/6054367",
+            "dateUpdated": "06-July-2023"
+        },
+        {
+            "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
+            "keyIssue": "Regulatory Framework; Infrastructure; Exchanges",
+            "typeOfAction": "Resolution",
+            "status": "In Force",
+            "nextStep": "NA",
+            "summaries1": "",
+            "summaries2": "The President of Uzbekistan signed the Resolution on the Creation of Crypto Exchanges, which set measures to organize the activities of crypto exchanges in Uzbekistan.",
+            "source": "https://lex.uz/docs/3891610; https://lex.uz/docs/6054869",
+            "dateUpdated": "6/7/2023"
+        },
+        {
+            "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)",
+            "keyIssue": "Regulatory Framework; Infrastructure; Exchanges",
+            "typeOfAction": "Resolution",
+            "status": "In Force",
+            "nextStep": "NA",
+            "summaries1": "",
+            "summaries2": "The resolution entitled \"On measures to organize the activities of crypto-exchanges\" directed the National Agency for Project Management to promulgate regulations for crypto exchanges.",
+            "source": "https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
+            "dateUpdated": "6/7/2023"
+        }
+    ]
+}]
