@@ -3,8 +3,8 @@
     "name": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
     "region": "Asia (Central Asia)",
     "iso": "UZB",
-    "mainIssue": "MI1",
     "keyIssues": [{
+			"mainIssue": "Regulatory Framework",
             "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)1",
             "keyIssue": "Regulatory Framework; Digital Assets; Taxation",
             "typeOfAction": "Resolution",
@@ -16,6 +16,7 @@
             "dateUpdated": "06-July-2023"
         },
         {
+			"mainIssue": "Regulatory Framework",
             "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)2",
             "keyIssue": "Regulatory Framework; Infrastructure; Exchanges",
             "typeOfAction": "Resolution",
@@ -27,6 +28,7 @@
             "dateUpdated": "06-July-2023"
         },
         {
+			"mainIssue": "Exchanges",
             "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)3",
             "keyIssue": "Regulatory Framework; Infrastructure; Exchanges",
             "typeOfAction": "Resolution",
@@ -44,8 +46,8 @@
     "name": "Afghanistan",
     "region": "Asia (Central Asia)",
     "iso": "AFG",
-    "mainIssue": "MI2",
     "keyIssues": [{
+			"mainIssue": "Crypto Ban",
             "governmentBodyName": "Taliban Regime",
             "keyIssue": "Crypto Ban",
             "typeOfAction": "Regulation",
