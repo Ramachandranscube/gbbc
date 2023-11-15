@@ -1,58 +1,1841 @@
 [{
-    "id": "o-zbekiston-respublikasi-republic-of-uzbekistan-",
-    "name": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
-    "region": "Asia (Central Asia)",
-    "iso": "UZB",
-    "keyIssues": [{
-			"mainIssue": "Regulatory Framework",
-            "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)1",
-            "keyIssue": "Regulatory Framework; Digital Assets; Taxation",
-            "typeOfAction": "Resolution",
-            "status": "In Force",
-            "nextStep": "NA",
-            "summaries2": "The President of Uzbekistan signed the Resolution of the President on Measures for the Development of the Digital Economy, which legalized cryptocurrencies and blockchain. The Resolution tasked the National Agency for Project Management (NAPM) to develop further legislation on cryptocurrencies and blockchain. It also directed government agencies to begin implementing blockchain into their services starting January 1, 2021. Finally, it stated that the taxation of cryptoassets \"is regulated by special legal acts\" and the turnover of cryptoassets are not subject to be taxed, and revenues received are not included in the tax base.",
-            "source": "https://lex.uz/docs/3806048; https://lex.uz/docs/6054367",
-            "dateUpdated": "06-July-2023"
-        },
-        {
-			"mainIssue": "Regulatory Framework",
-            "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)2",
-            "keyIssue": "Regulatory Framework; Infrastructure; Exchanges",
-            "typeOfAction": "Resolution",
-            "status": "In Force",
-            "nextStep": "NA",
-            "summaries2": "The President of Uzbekistan signed the Resolution on the Creation of Crypto Exchanges, which set measures to organize the activities of crypto exchanges in Uzbekistan.",
-            "source": "https://lex.uz/docs/3891610; https://lex.uz/docs/6054869",
-            "dateUpdated": "06-July-2023"
-        },
-        {
-			"mainIssue": "Exchanges",
-            "governmentBodyName": "Oʻzbekiston Respublikasining Prezidenti (President of Uzbekistan)3",
-            "keyIssue": "Regulatory Framework; Infrastructure; Exchanges",
-            "typeOfAction": "Resolution",
-            "status": "In Force",
-            "nextStep": "NA",
-            "summaries2": "The resolution entitled \"On measures to organize the activities of crypto-exchanges\" directed the National Agency for Project Management to promulgate regulations for crypto exchanges.",
-            "source": "https://lex.uz/ru/docs/3891610; https://lex.uz/docs/6054869",
-            "dateUpdated": "06-July-2023"
-        }
-    ]
-},
-{
-    "id": "afghanistan",
-    "name": "Afghanistan",
-    "region": "Asia (Central Asia)",
-    "iso": "AFG",
-    "keyIssues": [{
-			"mainIssue": "Crypto Ban",
-            "governmentBodyName": "Taliban Regime",
-            "keyIssue": "Crypto Ban",
-            "typeOfAction": "Regulation",
-            "status": "In Force",
-            "nextStep": "NA",
-            "summaries2": "The Taliban government imposed a nationwide ban on crypto and arrested token dealers who had defied prior orders to cease trading crypto.",
-            "source": "https://lex.uz/docs/3806048; https://lex.uz/docs/6054367",
-            "dateUpdated": "25-Oct-2023"
-        }
-    ]
-}]
+        "id": "o-zbekiston-respublikasi-republic-of-uzbekistan-",
+        "name": "Oʻzbekiston Respublikasi (Republic of Uzbekistan)",
+        "continent": "Asia",
+        "region": "Asia (Central Asia)",
+        "iso": "UZB",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-kazakhstan-",
+        "name": "Қазақстан Республикасы (Republic of Kazakhstan)",
+        "continent": "Asia",
+        "region": "Asia (Central Asia)",
+        "iso": "KAZ",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-tajikistan-",
+        "name": "Ҷумҳурии Тоҷикистон (Republic of Tajikistan)",
+        "continent": "Asia",
+        "region": "Asia (Central Asia)",
+        "iso": "TJK",
+        "keyIssues": []
+    },
+    {
+        "id": "-kyrgyz-republic-",
+        "name": "Кыргыз Республикасы (Kyrgyz Republic)",
+        "continent": "Asia",
+        "region": "Asia (Central Asia)",
+        "iso": "KGZ",
+        "keyIssues": []
+    },
+    {
+        "id": "turkmenistan",
+        "name": "Turkmenistan",
+        "continent": "Asia ",
+        "region": "Asia (Central Asia)",
+        "iso": "TKM",
+        "keyIssues": []
+    },
+    {
+        "id": "-islamic-emirate-of-afghanistan-",
+        "name": "د افغانستان اسلامي امارت (Islamic Emirate of Afghanistan)",
+        "continent": "Asia",
+        "region": "Asia  (South Asia)",
+        "iso": "AFG",
+        "keyIssues": []
+    },
+    {
+        "id": "republica-moldova-republic-of-moldova-",
+        "name": "Republica Moldova (Republic of Moldova)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "MDA",
+        "keyIssues": []
+    },
+    {
+        "id": "pridnestrovian-moldavian-republic-pmr-",
+        "name": "Pridnestrovian Moldavian Republic (PMR)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "PMR",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-armenia-",
+        "name": "Հայաստանի Հանրապետություն (Republic of Armenia)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "ARM",
+        "keyIssues": []
+    },
+    {
+        "id": "az-rbaycan-respublikas-republic-of-azerbaijan-",
+        "name": "Azərbaycan Respublikası (Republic of Azerbaijan)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "AZE",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-belarus-",
+        "name": "Рэспубліка Беларусь (Republic of Belarus)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "BLR",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-georgia-",
+        "name": "საქართველო (Republic of Georgia)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "GEO",
+        "keyIssues": []
+    },
+    {
+        "id": "-russian-federation-",
+        "name": "Российская Федерация (Russian Federation)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "RUS",
+        "keyIssues": []
+    },
+    {
+        "id": "-ukraine-",
+        "name": "Україна (Ukraine)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "UKR",
+        "keyIssues": []
+    },
+    {
+        "id": "european-union-eu-",
+        "name": "European Union (EU)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "EU",
+        "keyIssues": []
+    },
+    {
+        "id": "eesti-vabariik-the-republic-of-estonia-",
+        "name": "Eesti Vabariik (The Republic of Estonia)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "EST",
+        "keyIssues": []
+    },
+    {
+        "id": "latvijas-republika-republic-of-latvia-",
+        "name": "Latvijas Republika (Republic of Latvia)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "LVA",
+        "keyIssues": []
+    },
+    {
+        "id": "lietuvos-respublika-republic-of-lithuania-",
+        "name": "Lietuvos Respublika (Republic of Lithuania)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "LTU",
+        "keyIssues": []
+    },
+    {
+        "id": "republik-sterreich-republic-of-austria-",
+        "name": "Republik Österreich (Republic of Austria)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "AUT",
+        "keyIssues": []
+    },
+    {
+        "id": "kingdom-of-belgium",
+        "name": "Kingdom of Belgium",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "BEL",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-bulgaria-",
+        "name": "Република България (Republic of Bulgaria)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "BGR",
+        "keyIssues": []
+    },
+    {
+        "id": "republika-hrvatska-republic-of-croatia-",
+        "name": "Republika Hrvatska (Republic of Croatia)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "HRV",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-cyprus-",
+        "name": "Κυπριακή Δημοκρατία (Republic of Cyprus)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "CYP",
+        "keyIssues": []
+    },
+    {
+        "id": "-esk-republika-czech-republic-",
+        "name": "Česká republika (Czech Republic)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "CZE",
+        "keyIssues": []
+    },
+    {
+        "id": "kongeriget-danmark-the-kingdom-of-denmark-",
+        "name": "Kongeriget Danmark (The Kingdom of Denmark)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "DNK",
+        "keyIssues": []
+    },
+    {
+        "id": "suomen-tasavalta-republic-of-finland-",
+        "name": "Suomen tasavalta (Republic of Finland)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "FIN",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-fran-aise-french-republic-",
+        "name": "République française (French Republic)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "FRA",
+        "keyIssues": []
+    },
+    {
+        "id": "deutschland-germany-",
+        "name": "Deutschland (Germany)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "DEU",
+        "keyIssues": []
+    },
+    {
+        "id": "-the-hellenic-republic-greece-",
+        "name": "Ελλάδα (The Hellenic Republic) (Greece)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "GRC",
+        "keyIssues": []
+    },
+    {
+        "id": "magyarorsz-g-hungary-",
+        "name": "Magyarország (Hungary)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "HUN",
+        "keyIssues": []
+    },
+    {
+        "id": "poblacht-na-h-ireann-republic-of-ireland-",
+        "name": "Poblacht na hÉireann (Republic of Ireland)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "IRE",
+        "keyIssues": []
+    },
+    {
+        "id": "repubblica-italiana-italian-republic-",
+        "name": "Repubblica Italiana (Italian Republic)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "ITA",
+        "keyIssues": []
+    },
+    {
+        "id": "groussherzogtum-l-tzebuerg-grand-duchy-of-luxembourg-",
+        "name": "Groussherzogtum Lëtzebuerg (Grand Duchy of Luxembourg)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "LUX",
+        "keyIssues": []
+    },
+    {
+        "id": "repubblika-ta-malta-republic-of-malta-",
+        "name": "Repubblika ta' Malta (Republic of Malta)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "MLT",
+        "keyIssues": []
+    },
+    {
+        "id": "nederland-netherlands-",
+        "name": "Nederland (Netherlands)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "NLD",
+        "keyIssues": []
+    },
+    {
+        "id": "rzeczpospolita-polska-republic-of-poland-",
+        "name": "Rzeczpospolita Polska (Republic of Poland)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "POL",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-portuguesa-portuguese-republic-",
+        "name": "República Portuguesa (Portuguese Republic)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "PRT",
+        "keyIssues": []
+    },
+    {
+        "id": "rom-nia-romania-",
+        "name": "România (Romania)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "ROU",
+        "keyIssues": []
+    },
+    {
+        "id": "slovensk-republika-slovak-republic-",
+        "name": "Slovenská republika (Slovak Republic)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "SVK",
+        "keyIssues": []
+    },
+    {
+        "id": "republika-slovenija-republic-of-slovenia-",
+        "name": "Republika Slovenija (Republic of Slovenia)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "SVN",
+        "keyIssues": []
+    },
+    {
+        "id": "reino-de-espa-a-kingdom-of-spain-",
+        "name": "Reino de España (Kingdom of Spain)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "ESP",
+        "keyIssues": []
+    },
+    {
+        "id": "konungariket-sverige-kingdom-of-sweden-",
+        "name": "Konungariket Sverige (Kingdom of Sweden)",
+        "continent": "Europe",
+        "region": "European Union Members",
+        "iso": "SWE",
+        "keyIssues": []
+    },
+    {
+        "id": "gibraltar-british-overseas-territory-",
+        "name": "Gibraltar (British Overseas Territory)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "GIB",
+        "keyIssues": []
+    },
+    {
+        "id": "-sland-iceland-",
+        "name": "Ísland (Iceland)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "ISL",
+        "keyIssues": []
+    },
+    {
+        "id": "bailliage-d-j-rri-bailiwick-of-jersey-",
+        "name": "Bailliage dé Jèrri (Bailiwick of Jersey)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "JEY",
+        "keyIssues": []
+    },
+    {
+        "id": "ellan-vannin-isle-of-man-",
+        "name": "Ellan Vannin (Isle of Man)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "IMN",
+        "keyIssues": []
+    },
+    {
+        "id": "f-rstentum-liechtenstein-principality-of-liechtenstein-",
+        "name": "Fürstentum Liechtenstein (Principality of Liechtenstein)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "LIE",
+        "keyIssues": []
+    },
+    {
+        "id": "kongeriket-norge-kingdom-of-norway-",
+        "name": "Kongeriket Norge (Kingdom of Norway)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "NOR",
+        "keyIssues": []
+    },
+    {
+        "id": "repubblica-di-san-marino-republic-of-san-marino-",
+        "name": "Repubblica di San Marino (Republic of San Marino)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "SMR",
+        "keyIssues": []
+    },
+    {
+        "id": "schweizerische-eidgenossenschaft-swiss-confederation-",
+        "name": "Schweizerische Eidgenossenschaft (Swiss Confederation)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "CHE",
+        "keyIssues": []
+    },
+    {
+        "id": "united-kingdom-of-great-britain-and-northern-ireland",
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "GBR",
+        "keyIssues": []
+    },
+    {
+        "id": "principaut-de-monaco-principality-of-monaco-",
+        "name": "Principauté de Monaco (Principality of Monaco)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "MCO",
+        "keyIssues": []
+    },
+    {
+        "id": "republika-e-shqip-ris-republic-of-albania-",
+        "name": "Republika e Shqipërisë (Republic of Albania)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "ALB",
+        "keyIssues": []
+    },
+    {
+        "id": "republika-e-kosov-s-republic-of-kosovo-",
+        "name": "Republika e Kosovës (Republic of Kosovo)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "kosovo",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-serbia-",
+        "name": "Република Србија (Republic of Serbia)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "SRB",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-north-macedonia-",
+        "name": "Република Северна Македонија (Republic of North Macedonia)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "MKD",
+        "keyIssues": []
+    },
+    {
+        "id": "bosna-i-hercegovina-bosnia-and-herzegovina-",
+        "name": "Bosna i Hercegovina (Bosnia and Herzegovina)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "BIH",
+        "keyIssues": []
+    },
+    {
+        "id": "bailiwick-of-guernsey",
+        "name": "Bailiwick of Guernsey",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "GGY",
+        "keyIssues": []
+    },
+    {
+        "id": "-montenegro-",
+        "name": "Црна Гора (Montenegro)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "MNE",
+        "keyIssues": []
+    },
+    {
+        "id": "principat-d-andorra-principality-of-andorra-",
+        "name": "Principat d'Andorra (Principality of Andorra)",
+        "continent": "Europe",
+        "region": "Europe",
+        "iso": "AND",
+        "keyIssues": []
+    },
+    {
+        "id": "-islamic-republic-of-pakistan-",
+        "name": "اِسلامی جمہوریہ پاكِستان (Islamic Republic of Pakistan)",
+        "continent": "Asia",
+        "region": "Asia (Southern Asia)",
+        "iso": "PAK",
+        "keyIssues": []
+    },
+    {
+        "id": "-people-s-republic-of-bangladesh-",
+        "name": "গণপ্রজাতন্ত্রী বাংলাদেশ (People's Republic of Bangladesh)",
+        "continent": "Asia",
+        "region": "Asia (Southern Asia)",
+        "iso": "BGD",
+        "keyIssues": []
+    },
+    {
+        "id": "-islamic-republic-of-iran-",
+        "name": "جمهوری اسلامی ایران (Islamic Republic of Iran)",
+        "continent": "Asia",
+        "region": "Asia(Western Asia)",
+        "iso": "IRN",
+        "keyIssues": []
+    },
+    {
+        "id": "-federal-democratic-republic-of-nepal-",
+        "name": "सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल (Federal Democratic Republic of Nepal)",
+        "continent": "Asia",
+        "region": "Asia (Southern Asia)",
+        "iso": "NPL",
+        "keyIssues": []
+    },
+    {
+        "id": "democratic-socialist-republic-of-sri-lanka",
+        "name": "Democratic Socialist Republic of Sri Lanka",
+        "continent": "Asia",
+        "region": "Asia (Southern Asia)",
+        "iso": "LKA",
+        "keyIssues": []
+    },
+    {
+        "id": "-kingdom-of-bhutan-",
+        "name": "འབྲུག་ཡུལ་ལྗོངས་ (Kingdom of Bhutan)",
+        "continent": "Asia",
+        "region": "Asia (Southern Asia)",
+        "iso": "BTN",
+        "keyIssues": []
+    },
+    {
+        "id": "dhivehi-raajjeyge-jumhooriyyaa-republic-of-maldives-",
+        "name": "Dhivehi Raajjeyge Jumhooriyyaa (Republic of Maldives)",
+        "continent": "Asia",
+        "region": "Asia (Southern Asia)",
+        "iso": "MDV",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-india-",
+        "name": "भारत गणराज्य (Republic of India)",
+        "continent": "Asia",
+        "region": "Asia (Southern Asia)",
+        "iso": "IND",
+        "keyIssues": []
+    },
+    {
+        "id": "-kingdom-of-bahrain-",
+        "name": "مملكة البحرين (Kingdom of Bahrain)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "BHR",
+        "keyIssues": []
+    },
+    {
+        "id": "the-state-of-israel-",
+        "name": "the State of Israel (מְדִינַת יִשְׂרָאֵל)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "ISR",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-lebanon-",
+        "name": "الجمهورية اللبنانية (Republic of Lebanon)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "LBN",
+        "keyIssues": []
+    },
+    {
+        "id": "-hashemite-kingdom-of-jordan-",
+        "name": "المملكة الأردنية الهاشمية (Hashemite Kingdom of Jordan)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "JOR",
+        "keyIssues": []
+    },
+    {
+        "id": "t-rkiye-cumhuriyeti-republic-of-turkiye-",
+        "name": "Türkiye Cumhuriyeti (Republic of Turkiye)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "TUR",
+        "keyIssues": []
+    },
+    {
+        "id": "-state-of-kuwait-",
+        "name": "دولة الكويت (State of Kuwait)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "KWT",
+        "keyIssues": []
+    },
+    {
+        "id": "-state-of-qatar-",
+        "name": "دولة قطر (State of Qatar)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "QAT",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-iraq-",
+        "name": "جمهورية العراق (Republic of Iraq)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "IRQ",
+        "keyIssues": []
+    },
+    {
+        "id": "-kingdom-of-saudi-arabia-",
+        "name": "ٱلْمَمْلَكَة ٱلْعَرَبِيَّة ٱلسَّعُوْدِيَّة (Kingdom of Saudi Arabia)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "SAU",
+        "keyIssues": []
+    },
+    {
+        "id": "-united-arab-emirates-",
+        "name": "الإمارات العربية المتحدة (United Arab Emirates)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "ARE",
+        "keyIssues": []
+    },
+    {
+        "id": "-sultanate-of-oman-",
+        "name": "سلْطنةُ عُمان  (Sultanate of Oman)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "OMN",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-yemen-",
+        "name": "الجمهورية اليمنية (Republic of Yemen)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "YEM",
+        "keyIssues": []
+    },
+    {
+        "id": "-state-of-palestine-",
+        "name": "دولة فلسطين‎ (State of Palestine)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "PSE",
+        "keyIssues": []
+    },
+    {
+        "id": "-syrian-arab-republic-",
+        "name": "الجمهورية العربية السورية (Syrian Arab Republic)",
+        "continent": "Asia",
+        "region": "Asia (Western Asia)",
+        "iso": "SYR",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-china-taiwan-",
+        "name": "中華民國 (Republic of China_Taiwan)",
+        "continent": "Asia",
+        "region": "Asia (Eastern Asia)",
+        "iso": "TWN",
+        "keyIssues": []
+    },
+    {
+        "id": "-hong-kong-special-administrative-region-of-the-people-s-republic-of-china-hksar-",
+        "name": "香港 (Hong Kong Special Administrative Region of the People's Republic of China_HKSAR)",
+        "continent": "Asia",
+        "region": "Asia (Eastern Asia)",
+        "iso": "HKG",
+        "keyIssues": []
+    },
+    {
+        "id": "-japan-",
+        "name": "日本国 (Japan)",
+        "continent": "Asia",
+        "region": "Asia (Eastern Asia)",
+        "iso": "JPN",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-korea-",
+        "name": "대한민국/大韓民國 (Republic of Korea)",
+        "continent": "Asia",
+        "region": "Asia (Eastern Asia)",
+        "iso": "KOR",
+        "keyIssues": []
+    },
+    {
+        "id": "-people-s-republic-of-china-",
+        "name": "中华人民共和国 (People's Republic of China)",
+        "continent": "Asia",
+        "region": "Asia (Eastern Asia)",
+        "iso": "CHN",
+        "keyIssues": []
+    },
+    {
+        "id": "-democratic-people-s-republic-of-korea-north-korea-",
+        "name": "조선민주주의인민공화국 Democratic People's Republic of Korea (North Korea)",
+        "continent": "Asia",
+        "region": "Asia (Eastern Asia)",
+        "iso": "KOR",
+        "keyIssues": []
+    },
+    {
+        "id": "-macau-special-administrative-region",
+        "name": "澳門特別行政區 Macau Special Administrative Region",
+        "continent": "Asia ",
+        "region": "Asia (Eastern Asia)",
+        "iso": "MAC",
+        "keyIssues": []
+    },
+    {
+        "id": "-mongolia-",
+        "name": "Монгол Улс (Mongolia)",
+        "continent": "Asia",
+        "region": "Asia (Eastern Asia)",
+        "iso": "MNG",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-singapore",
+        "name": "Republic of Singapore",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "SGP",
+        "keyIssues": []
+    },
+    {
+        "id": "-kingdom-of-thailand-",
+        "name": "ราชอาณาจักรไทย (Kingdom of Thailand)",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "THA",
+        "keyIssues": []
+    },
+    {
+        "id": "republik-indonesia-republic-of-indonesia-",
+        "name": "Republik Indonesia (Republic of Indonesia)",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "IDN",
+        "keyIssues": []
+    },
+    {
+        "id": "republika-ng-pilipinas-republic-of-the-philippines-",
+        "name": "Republika ng Pilipinas (Republic of the Philippines)",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "PHL",
+        "keyIssues": []
+    },
+    {
+        "id": "-kingdom-of-cambodia-",
+        "name": "ព្រះរាជាណាចក្រកម្ពុជា (Kingdom of Cambodia)",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "KHM",
+        "keyIssues": []
+    },
+    {
+        "id": "malaysia",
+        "name": "Malaysia",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "MYS",
+        "keyIssues": []
+    },
+    {
+        "id": "negara-brunei-darussalam-nation-of-brunei-the-abode-of-peace-",
+        "name": "Negara Brunei Darussalam (Nation of Brunei, the Abode of Peace)",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "BRN",
+        "keyIssues": []
+    },
+    {
+        "id": "-republic-of-the-union-of-myanmar-",
+        "name": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်‌ (Republic of the Union of Myanmar)",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "MMR",
+        "keyIssues": []
+    },
+    {
+        "id": "-lao-people-s-democratic-republic-",
+        "name": "ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ (Lao People's Democratic Republic)",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "LAO",
+        "keyIssues": []
+    },
+    {
+        "id": "c-ng-h-a-x-h-i-ch-ngh-a-vi-t-nam-socialist-republic-of-vietnam-",
+        "name": "Cộng hòa Xã hội chủ nghĩa Việt Nam (Socialist Republic of Vietnam)",
+        "continent": "Asia",
+        "region": "Asia (South-eastern Asia)",
+        "iso": "VNM",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-democr-tica-de-timor-leste-democratic-republic-of-timor-leste-",
+        "name": "República Democrática de Timor-Leste (Democratic Republic of Timor-Leste)",
+        "continent": "Asia",
+        "region": "Asia (Eastern Asia)",
+        "iso": "TLS",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-federativa-do-brasil-federative-republic-of-brazil-",
+        "name": "República Federativa do Brasil (Federative Republic of Brazil)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "BRA",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-argentina-argentine-republic-",
+        "name": "República Argentina (Argentine Republic)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "ARG",
+        "keyIssues": []
+    },
+    {
+        "id": "belize",
+        "name": "Belize",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "BLZ",
+        "keyIssues": []
+    },
+    {
+        "id": "cayman-islands-",
+        "name": "Cayman Islands ",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "Cayman Islands",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-dominicana-dominican-republic-",
+        "name": "República Dominicana (Dominican Republic)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "DOM",
+        "keyIssues": []
+    },
+    {
+        "id": "federation-of-saint-christopher-and-nevis-saint-kitts-and-nevis-",
+        "name": "Federation of Saint Christopher and Nevis (Saint Kitts and Nevis)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "KNA",
+        "keyIssues": []
+    },
+    {
+        "id": "antigua-and-barbuda",
+        "name": "Antigua and Barbuda",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "ATG",
+        "keyIssues": []
+    },
+    {
+        "id": "grenada",
+        "name": "Grenada",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "GRD",
+        "keyIssues": []
+    },
+    {
+        "id": "st-lucia",
+        "name": "St. Lucia",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "LCA",
+        "keyIssues": []
+    },
+    {
+        "id": "saint-vincent-and-the-grenadines",
+        "name": "Saint Vincent and the Grenadines",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "VCT",
+        "keyIssues": []
+    },
+    {
+        "id": "commonwealth-of-dominica",
+        "name": "Commonwealth of Dominica",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "DMA",
+        "keyIssues": []
+    },
+    {
+        "id": "montserrat",
+        "name": "Montserrat",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "MSR",
+        "keyIssues": []
+    },
+    {
+        "id": "anguilla",
+        "name": "Anguilla",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "AIA",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-peru",
+        "name": "Republic of Peru",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "PER",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-el-salvador",
+        "name": "Republic of El Salvador",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "SLV",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-honduras-",
+        "name": "Republic of Honduras ",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "HND",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-de-panam-republic-of-panama-",
+        "name": "República de Panamá (Republic of Panama)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "PAN",
+        "keyIssues": []
+    },
+    {
+        "id": "estado-plurinacional-de-bolivia-plurinational-state-of-bolivia-",
+        "name": "Estado Plurinacional de Bolivia (Plurinational State of Bolivia)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "BOL",
+        "keyIssues": []
+    },
+    {
+        "id": "jamaica",
+        "name": "Jamaica",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "JAM",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-trinidad-and-tobago",
+        "name": "Republic of Trinidad and Tobago",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "TTO",
+        "keyIssues": []
+    },
+    {
+        "id": "the-republic-of-ecuador-rep-blica-del-ecuador-",
+        "name": "The Republic of Ecuador (República del Ecuador)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "ECU",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-de-chile-republic-of-chile-",
+        "name": "República de Chile (Republic of Chile)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "CHL",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-del-paraguay-republic-of-paraguay-",
+        "name": "República del Paraguay (Republic of Paraguay)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "PRY",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-oriental-del-uruguay-the-oriental-republic-of-uruguay-",
+        "name": "República Oriental del Uruguay (The Oriental Republic of Uruguay)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "URY",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-de-colombia-republic-of-colombia-",
+        "name": "República de Colombia (Republic of Colombia)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "COL",
+        "keyIssues": []
+    },
+    {
+        "id": "barbados",
+        "name": "Barbados",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "BRB",
+        "keyIssues": []
+    },
+    {
+        "id": "commonwealth-of-the-bahamas",
+        "name": "Commonwealth of The Bahamas",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "BHS",
+        "keyIssues": []
+    },
+    {
+        "id": "estados-unidos-mexicanos-united-mexican-states-",
+        "name": "Estados Unidos Mexicanos (United Mexican States)",
+        "continent": "Latin America & Caribbean",
+        "region": "Latin America & Caribbean",
+        "iso": "MEX",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-federal-",
+        "name": "United States of America (Federal)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-new-york-",
+        "name": "United States of America (New York)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-colorado-",
+        "name": "United States of America (Colorado)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-arkansas-",
+        "name": "United States of America (Arkansas)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-south-dakota-",
+        "name": "United States of America (South Dakota)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-wisconsin-",
+        "name": "United States of America (Wisconsin)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-maine-",
+        "name": "United States of America (Maine)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-new-mexico-",
+        "name": "United States of America (New Mexico)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-indiana-",
+        "name": "United States of America (Indiana)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-alaska-",
+        "name": "United States of America (Alaska)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-mississippi-",
+        "name": "United States of America (Mississippi)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-south-carolina-",
+        "name": "United States of America (South Carolina)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-kansas-",
+        "name": "United States of America (Kansas)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-missouri-",
+        "name": "United States of America (Missouri)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-montana-",
+        "name": "United States of America (Montana)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-maryland-",
+        "name": "United States of America (Maryland)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-virginia-",
+        "name": "United States of America (Virginia)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-delaware-",
+        "name": "United States of America (Delaware)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-minnesota-",
+        "name": "United States of America (Minnesota)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-new-hampshire-",
+        "name": "United States of America (New Hampshire)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-pennsylvania-",
+        "name": "United States of America (Pennsylvania)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-north-carolina-",
+        "name": "United States of America (North Carolina)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-georgia-",
+        "name": "United States of America (Georgia)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-idaho-",
+        "name": "United States of America (Idaho)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-oregon-",
+        "name": "United States of America (Oregon)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-rhode-island-",
+        "name": "United States of America (Rhode Island)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-illinois-",
+        "name": "United States of America (Illinois)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-iowa-",
+        "name": "United States of America (Iowa)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-florida-",
+        "name": "United States of America (Florida)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-ohio-",
+        "name": "United States of America (Ohio)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-california-",
+        "name": "United States of America (California)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-west-virginia-",
+        "name": "United States of America (West Virginia)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-alabama-",
+        "name": "United States of America (Alabama)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-utah-",
+        "name": "United States of America (Utah)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-kentucky-",
+        "name": "United States of America (Kentucky)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-michigan-",
+        "name": "United States of America (Michigan)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-oklahoma-",
+        "name": "United States of America (Oklahoma)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-nebraska-",
+        "name": "United States of America (Nebraska)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-vermont-",
+        "name": "United States of America (Vermont)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-new-jersey-",
+        "name": "United States of America (New Jersey)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-north-dakota-",
+        "name": "United States of America (North Dakota)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-tennessee-",
+        "name": "United States of America (Tennessee)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-louisiana-",
+        "name": "United States of America (Louisiana)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-nevada-",
+        "name": "United States of America (Nevada)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-connecticut-",
+        "name": "United States of America (Connecticut)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-massachusetts-",
+        "name": "United States of America (Massachusetts)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-arizona-",
+        "name": "United States of America (Arizona)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-texas-",
+        "name": "United States of America (Texas)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-hawaii-",
+        "name": "United States of America (Hawaii)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-washington-",
+        "name": "United States of America (Washington)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "united-states-of-america-wyoming-",
+        "name": "United States of America (Wyoming)",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "multiple-states",
+        "name": "Multiple States",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "USA",
+        "keyIssues": []
+    },
+    {
+        "id": "canada",
+        "name": "Canada",
+        "continent": "North America",
+        "region": "North America",
+        "iso": "CAN",
+        "keyIssues": []
+    },
+    {
+        "id": "west-african-economic-and-monetary-union-waemu-",
+        "name": "West African Economic and Monetary Union (WAEMU)",
+        "continent": "Africa",
+        "region": "West African Economic and Monetary Union Members",
+        "iso": "WEST_AFRICA",
+        "keyIssues": []
+    },
+    {
+        "id": "togo",
+        "name": "Togo",
+        "continent": "Africa",
+        "region": "West African Economic and Monetary Union Members",
+        "iso": "TGO",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-du-b-nin-republic-of-benin-",
+        "name": "République du Bénin (Republic of Benin)",
+        "continent": "Africa",
+        "region": "West African Economic and Monetary Union Members",
+        "iso": "BEN",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-du-s-n-gal-republic-of-senegal-",
+        "name": "République du Sénégal (Republic of Senegal)",
+        "continent": "Africa",
+        "region": "West African Economic and Monetary Union Members",
+        "iso": "SEN",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-du-burkina-faso-republic-of-burkina-faso-",
+        "name": "République du Burkina Faso (Republic of Burkina Faso)",
+        "continent": "Africa",
+        "region": "West African Economic and Monetary Union Members",
+        "iso": "BFA",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-de-c-te-d-ivoire-republic-of-c-te-d-ivoire-",
+        "name": "République de  Côte d’Ivoire (Republic of Côte d’Ivoire)",
+        "continent": "Africa",
+        "region": "West African Economic and Monetary Union Members",
+        "iso": "CIV",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-da-guin-bissau-republic-of-guinea-bissau-",
+        "name": "República da Guiné-Bissau (Republic of Guinea-Bissau)",
+        "continent": "Africa",
+        "region": "West African Economic and Monetary Union Members",
+        "iso": "GNB",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-mali",
+        "name": "(Republic of Mali) جمهورية مالي",
+        "continent": "Africa",
+        "region": "West African Economic and Monetary Union Members",
+        "iso": "MLI",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-du-niger-republic-of-niger-",
+        "name": "République du Niger (Republic of Niger)",
+        "continent": "Africa",
+        "region": "West African Economic and Monetary Union Members",
+        "iso": "NGA",
+        "keyIssues": []
+    },
+    {
+        "id": "communaut-economique-et-mon-taire-des-etats-de-l-afrique-centrale-cemaceconomic-and-monetary-community-of-central-africa-cemac-",
+        "name": "Communauté Economique et Monétaire des Etats de l’Afrique Centrale_CEMAC(Economic and Monetary Community of Central Africa) (CEMAC)",
+        "continent": "Africa",
+        "region": "Economic and Monetary Community of Central Africa Members",
+        "iso": "CAF",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-centrafricaine-central-african-republic-",
+        "name": "République Centrafricaine (Central African Republic)",
+        "continent": "Africa",
+        "region": "Economic and Monetary Community of Central Africa Members",
+        "iso": "CAF",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-du-cameroun-republic-of-cameroon-",
+        "name": "République du Cameroun (Republic of Cameroon)",
+        "continent": "Africa",
+        "region": "Economic and Monetary Community of Central Africa Members",
+        "iso": "CMR",
+        "keyIssues": []
+    },
+    {
+        "id": "chad",
+        "name": "Chad",
+        "continent": "Africa",
+        "region": "Economic and Monetary Community of Central Africa Members",
+        "iso": "TCD",
+        "keyIssues": []
+    },
+    {
+        "id": "gabon",
+        "name": "Gabon",
+        "continent": "Africa",
+        "region": "Economic and Monetary Community of Central Africa Members",
+        "iso": "GAB",
+        "keyIssues": []
+    },
+    {
+        "id": "guinea-ecuatorial-equatorial-guinea-",
+        "name": "Guinea Ecuatorial (Equatorial Guinea)",
+        "continent": "Africa",
+        "region": "Economic and Monetary Community of Central Africa Members",
+        "iso": "GNQ",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-du-congorepublic-of-congo-",
+        "name": "République du Congo(Republic of Congo)",
+        "continent": "Africa",
+        "region": "Economic and Monetary Community of Central Africa Members",
+        "iso": "COG",
+        "keyIssues": []
+    },
+    {
+        "id": "-state-of-libya-",
+        "name": "دولة ليبيا (State of Libya)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "LBY",
+        "keyIssues": []
+    },
+    {
+        "id": "-people-s-democratic-republic-of-algeria-",
+        "name": "الجمهورية الجزائرية الديمقراطية الشعبية (People's Democratic Republic of Algeria)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "DZA",
+        "keyIssues": []
+    },
+    {
+        "id": "-arab-republic-of-egypt-",
+        "name": "جمهورية مصر العربية (Arab Republic of Egypt)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "EGY",
+        "keyIssues": []
+    },
+    {
+        "id": "-kingdom-of-morocco-",
+        "name": "المملكة المغربية (Kingdom of Morocco)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "MAR",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-de-mo-ambique-republic-of-mozambique-",
+        "name": "República de Moçambique (Republic of Mozambique)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "MOZ",
+        "keyIssues": []
+    },
+    {
+        "id": "rep-blica-da-angola-republic-of-angola-",
+        "name": "República da Angola (Republic of Angola)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "AGO",
+        "keyIssues": []
+    },
+    {
+        "id": "kingdom-of-lesotho",
+        "name": "Kingdom of Lesotho",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "LSO",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-ghana",
+        "name": "Republic of Ghana",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "GHA",
+        "keyIssues": []
+    },
+    {
+        "id": "jamhuri-ya-kenya-republic-of-kenya-",
+        "name": "Jamhuri ya Kenya (Republic of Kenya)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "KEN",
+        "keyIssues": []
+    },
+    {
+        "id": "jamhuri-ya-uganda-republic-of-uganda-",
+        "name": "Jamhuri ya Uganda (Republic of Uganda)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "UGA",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-zambia",
+        "name": "Republic of Zambia",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "ZMB",
+        "keyIssues": []
+    },
+    {
+        "id": "jamhuri-ya-muungano-wa-tanzania-united-republic-of-tanzania-",
+        "name": "Jamhuri ya Muungano wa Tanzania (United Republic of Tanzania)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "TZA",
+        "keyIssues": []
+    },
+    {
+        "id": "republika-y-uburundi-republic-of-burundi-",
+        "name": "Republika y'Uburundi (Republic of Burundi)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "BDI",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-malawi",
+        "name": "Republic of Malawi",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "MWI",
+        "keyIssues": []
+    },
+    {
+        "id": "r-publique-tunisienne-republic-of-tunisia-",
+        "name": "République Tunisienne (Republic of Tunisia)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "TUN",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-seychelles",
+        "name": "Republic of Seychelles",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "SYC",
+        "keyIssues": []
+    },
+    {
+        "id": "federal-democratic-republic-of-ethiopia",
+        "name": "Federal Democratic Republic of Ethiopia",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "ETH",
+        "keyIssues": []
+    },
+    {
+        "id": "repiblik-moris-republic-of-mauritius-",
+        "name": "Repiblik Moris (Republic of Mauritius)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "MUS",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-namibia",
+        "name": "Republic of Namibia",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "NAM",
+        "keyIssues": []
+    },
+    {
+        "id": "federal-republic-of-nigeria",
+        "name": "Federal Republic of Nigeria",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "NGA",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-south-africa",
+        "name": "Republic of South Africa",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "ZAF",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-zimbabwe",
+        "name": "Republic of Zimbabwe",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "ZWE",
+        "keyIssues": []
+    },
+    {
+        "id": "repubulika-y-u-rwanda-republic-of-rwanda-",
+        "name": "Repubulika y'u Rwanda (Republic of Rwanda)",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "RWA",
+        "keyIssues": []
+    },
+    {
+        "id": "republic-of-liberia",
+        "name": "Republic of Liberia",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "LBR",
+        "keyIssues": []
+    },
+    {
+        "id": "sierra-leone",
+        "name": "Sierra Leone",
+        "continent": "Africa",
+        "region": "Africa",
+        "iso": "SLE",
+        "keyIssues": []
+    },
+    {
+        "id": "beluu-er-a-belau-republic-of-palau-",
+        "name": "Beluu er a Belau (Republic of Palau)",
+        "continent": "Oceania",
+        "region": "Oceania",
+        "iso": "PLW",
+        "keyIssues": []
+    },
+    {
+        "id": "independent-state-of-papua-new-guinea",
+        "name": "Independent State of Papua New Guinea",
+        "continent": "Oceania",
+        "region": "Oceania",
+        "iso": "PNG",
+        "keyIssues": []
+    },
+    {
+        "id": "malo-sa-oloto-tuto-atasi-o-s-moa-independent-state-of-samoa-",
+        "name": "Malo Saʻoloto Tutoʻatasi o Sāmoa (Independent State of Samoa)",
+        "continent": "Oceania",
+        "region": "Oceania",
+        "iso": "WSM",
+        "keyIssues": []
+    },
+    {
+        "id": "solomon-islands",
+        "name": "Solomon Islands",
+        "continent": "Oceania",
+        "region": "Oceania",
+        "iso": "SLB",
+        "keyIssues": []
+    },
+    {
+        "id": "aolep-n-aor-kin-aje-republic-of-the-marshall-islands-",
+        "name": "Aolepān Aorōkin Ṃajeḷ (Republic of the Marshall Islands)",
+        "continent": "Oceania",
+        "region": "Oceania",
+        "iso": "MHL",
+        "keyIssues": []
+    },
+    {
+        "id": "new-zealand",
+        "name": "New Zealand",
+        "continent": "Oceania",
+        "region": "Oceania",
+        "iso": "NZL",
+        "keyIssues": []
+    },
+    {
+        "id": "commonwealth-of-australia",
+        "name": "Commonwealth of Australia",
+        "continent": "Oceania",
+        "region": "Oceania",
+        "iso": "AUS",
+        "keyIssues": []
+    }
+]
