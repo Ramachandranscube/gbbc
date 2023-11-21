@@ -1,56 +1,56 @@
 [
-  {
-    "Term": "Airdrop",
-    "Category": "category 1",
-    "Sources": [
-      {
+    {
+        "Term": "Airdrop",
+        "Category": "category 1",
         "Source": "Source 1",
         "Definition": "Definition 1"
-      },
-      {
+    },
+    {
+        "Term": "Airdrop",
+        "Category": "category 1",
         "Source": "Source 2",
         "Definition": "Definition 2"
-      },
-      {
+    },
+    {
+        "Term": "Airdrop",
+        "Category": "category 1",
         "Source": "Source 3",
         "Definition": "Definition 3"
-      }
-    ]
-  },
-  {
-    "Term": "Altcoin",
-    "Category": "category 2",
-    "Sources": [
-      {
+    },
+    {
+        "Term": "Altcoin",
+        "Category": "category 2",
         "Source": "Source 1",
         "Definition": "Definition 1"
-      },
-      {
+    },
+    {
+        "Term": "Altcoin",
+        "Category": "category 2",
         "Source": "Source 2",
         "Definition": "Definition 2"
-      },
-      {
+    },
+    {
+        "Term": "Altcoin",
+        "Category": "category 2",
         "Source": "Source 3",
         "Definition": "Definition 3"
-      }
-    ]
-  },
-  {
-    "Term": "Bitcoin",
-    "Category": "category 3",
-    "Sources": [
-      {
+    },
+    {
+        "Term": "Bitcoin",
+        "Category": "category 3",
         "Source": "Source 1",
         "Definition": "Definition 1"
-      },
-      {
+    },
+    {
+        "Term": "Bitcoin",
+        "Category": "category 3",
         "Source": "Source 2",
         "Definition": "Definition 2"
-      },
-      {
+    },
+    {
+        "Term": "Bitcoin",
+        "Category": "category 3",
         "Source": "Source 3",
         "Definition": "Definition 3"
-      }
-    ]
-  }
+    }
 ]
